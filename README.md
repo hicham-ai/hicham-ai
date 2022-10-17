@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hicham-ai
-- 👀 I’m interested in everythinks expect ui/ux
+- 👀 I’m interested in eveything expect ui/ux
 - 🌱 I’m currently learning Python and c/c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me hichambenoukaiss@mail.ru
