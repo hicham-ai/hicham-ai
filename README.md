@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hicham-ai
-- 👀 I’m interested in Machine learning and AI
-- 🌱 I’m currently learning Python 
+- 👀 I’m interested in everythinks expect ui/ux
+- 🌱 I’m currently learning Python and c/c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me hichambenoukaiss@mail.ru
 
